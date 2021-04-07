@@ -1,0 +1,132 @@
+/*Custom replit.com theme*/
+/*Author contact info:
+Discord: CaptainVietnam6#0001
+Instagram: @itz_kiettttttttt
+Email: kiet.riley2005@gmail.com
+*/
+
+/*you can use Amino Live CSS editor or Stylusto add on this CSS code to make your replit theme look better :)*/
+
+/*the code below is for python*/
+
+@keyframes rgb{
+    0%,100%{color:#FF0000;}
+    8%{color:#800000;}
+    17%{color:#FFFF00;}
+    25%{color:#808000;}
+    33%{color:#00FF00;}
+    42%{color:#008000;}
+    50%{color:#00FFFF;}
+    58%{color:#008080;}
+    67%{color:#0000FF;}
+    75%{color:#000080;}
+    83%{color:#FF00FF;}
+    92%{color:#800080;}
+
+/*line numbers color*/
+}
+div.line-numbers{
+    color: #7ae697 !important;
+}
+
+/*keyword color, eg, 'import', 'def' etc*/
+span.mtk1.keyword{
+    color: #ff5900 !important;
+}
+
+span.mtk1.function.support{
+    color: #fcdf03 !important;
+}
+
+/*for strings, eg "this is a string"*/
+span.mtk1.string{
+    color: #77ece4 !important;
+}
+
+/*for comments, eg. "#this is a python comment"*/
+span.mtk1.comment{
+    color: #00ff44 !important;
+}
+
+/*this is for Python booleans, eg. "True", "False"*/
+span.mtk1.constant.language{
+    color: #0a75ab !important;
+}
+
+
+span.mtk1.constant.other{
+    color: #ee676d !important;
+}
+
+/*this is for numbers*/
+span.mtk1.constant.numeric{
+    color: #ff0000 !important;
+}
+
+span.mtk1.constant.escape.language{
+    color: #f280c5 !important;
+}
+
+/*open parentheses*/
+span.mtk1.lparen.paren{
+    color: #b7ff00 !important;
+}
+
+/*close parentheses*/
+span.mtk1.paren.rparen{
+    color: #b7ff00 !important;
+}
+
+span.mtk1.storage.type{
+    color: #00ff99 !important;
+}
+
+.mtk1{
+    color: #77ece4 !important;
+}
+
+
+/*the code below is for JavaScript, CSS, HTML, and CPP/C++*/
+
+
+/*below is for html primarily*/
+
+/*this is for your headers or classes or smth idk i dont code in html :P*/
+.mtk9{
+    color: #ff5900 !important;
+}
+
+/*this is for your body content*/
+.mtk4{
+    color: #77ece4 !important;
+}
+
+/*this is for your < and > signs*/
+.mtk13{
+    color: #b7ff00 !important;
+}
+
+/*for your strings*/
+.mtk5{
+    color: #fcdf03 !important;
+}
+
+
+/*below is for JavaScript*/
+
+.mtk12{
+    color: #b7ff00 !important;
+}
+
+/*for notes/comments*/
+.mtk8{
+    color: #00ff44 !important
+}
+
+
+/*code below is for CSS*/
+
+/*for numerics*/
+.mtk6{
+    color: #ff0000 !important;
+}
